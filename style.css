@@ -1,0 +1,21 @@
+h1 {
+    color: chartreuse;
+}
+html {
+    background-color: black;
+
+}
+
+.footer { 
+    color: blue;
+    position: fixed;     
+    text-align: center;    
+    bottom: 0px; 
+    width: 100%;
+}  
+
+.lyrics {
+    font-style: italic;
+    font-size: large;
+    color: darkgreen;
+}
